@@ -42,4 +42,4 @@ The module's appearance can be customized by editing the files in:
 ---
 Developed by **astrodesign**
 
-> **Disclaimer:** This module is provided "as is" for the community. PrestaShop modules are often expensive; this project aims to provide a free, high-quality alternative for shipping management. **Not for resale.**
+> **Disclaimer:** This module is provided "as is" for the community. PrestaShop modules are often expensive; this project aims to provide a free, high-quality alternative. **Not for resale.**
